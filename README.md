@@ -6,4 +6,4 @@
 4. Editor will auto close your Tag and Brackets.
 5. For shortcuts in HTML, CSS and JavaScript write a little and press ctrl+space to get suggestions and shortcuts.
 6. After writing code click on "Click here to view OUTPUT" to see the output.
-7. Go to https://JisanEAE77.github.io/WebEditor/ to test the editor yourself.
+7. Go to https://JisanEAE77.github.io/WebEditor to test the editor yourself.
